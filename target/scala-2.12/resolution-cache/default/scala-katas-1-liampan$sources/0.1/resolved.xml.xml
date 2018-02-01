@@ -4,7 +4,7 @@
 		module="scala-katas-1-liampan$sources"
 		revision="0.1"
 		status="integration"
-		publication="20180201142951"
+		publication="20180201143725"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

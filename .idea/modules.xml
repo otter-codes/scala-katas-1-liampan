@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-katas-1-liampan.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-katas-1-liampan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-katas-1-liampan-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-katas-1-liampan-build.iml" />
     </modules>
   </component>
 </project>
