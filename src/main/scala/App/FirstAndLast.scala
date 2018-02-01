@@ -17,5 +17,6 @@ object FirstAndLast extends App {
     }
   }
 
+
   println(removeFL(word))
 }

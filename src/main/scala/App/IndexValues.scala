@@ -2,7 +2,7 @@ package App
 
 object IndexValues extends App {
 
-  val TheList = List(2, 4, 7, 9, 10)
+  val TheList = List(2, 4, 7, 9, 10,50)
 
 
   val refined = TheList.zipWithIndex
